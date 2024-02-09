@@ -1,3 +1,4 @@
 export function getWzVersion(): string {
-  return localStorage.getItem('wzVersion') || getWzVersion()
+  console.log(localStorage.getItem('wzVersion'));
+  return localStorage.getItem('wzVersion') || "KMST 1168";
 }

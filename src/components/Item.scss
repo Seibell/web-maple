@@ -1,0 +1,20 @@
+$slotWidth: 32px;
+$slotHeight: 32px;
+
+.item-wrapper {
+  display: grid;
+  width: $slotWidth;
+  height: $slotHeight;
+  // background-color: #eeeeee;
+  width: fit-content;
+  height: fit-content;
+  cursor: pointer;
+  &:hover {
+    background-color: #9effa2;
+  }
+}
+
+.item-img {
+  justify-self: center;
+  align-self: end;
+}

@@ -8,8 +8,8 @@
     "build": "tsc && vite build",
     "preview": "vite preview",
     "test": "react-scripts test",
-    "predeploy": "pnpm build",
-    "gh-deploy": "pnpm predeploy && gh-pages -d build"
+    "predeploy": "yarn build",
+    "gh-deploy": "yarn predeploy && gh-pages -d build"
   },
   "dependencies": {
     "@esbuild-plugins/node-globals-polyfill": "^0.2.3",

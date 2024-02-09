@@ -156,25 +156,25 @@ export const getSuccessRate = (
     case 12:
       result = {
         success: 40,
-        failMaintain: 0,
-        failDecrease: 59.4,
-        destroy: 0.6
+        failMaintain: 60,
+        failDecrease: 0,
+        destroy: 0
       }
       break
     case 13:
       result = {
         success: 35,
-        failMaintain: 0,
-        failDecrease: 63.7,
-        destroy: 1.3
+        failMaintain: 65,
+        failDecrease: 0,
+        destroy: 0
       }
       break
     case 14:
       result = {
         success: 30,
-        failMaintain: 0,
-        failDecrease: 68.6,
-        destroy: 1.4
+        failMaintain: 70,
+        failDecrease: 0,
+        destroy: 0
       }
       break
     case 15:

@@ -1,17 +1,11 @@
-### 메이플 인벤토리
 
-- 리액트를 연습하는데 Todolist 만들기가 싫어서 인벤토리를 만들어보았다.
-- 이미지 구해서 넣는게 노가다가 짙었다
-- 현재 메이플 인벤토리와 내가 새로 디자인한 인벤토리를 비교해서 가지고 놀 수 있게 만들었다.
-  - 현재 메이플 인벤은 지금 이미지랑 바뀌었다
 
-### 실행 방법
+### Install ref
 
 ```
-yarn        // yarn 설치
-yarn dev    // dev 실행
+yarn set version berry
+yarn install prop-types
+corepack enable
+yarn
+yarn dev
 ```
-
-### 실행 화면
-
-<kbd><img src="https://user-images.githubusercontent.com/19217576/137501680-6743f878-65b9-4a48-94b9-8128bbfc351c.gif"/></kbd>

@@ -45,9 +45,6 @@ psd
 thumb
 sketch
 
-
-.env
-
 .yarn
 .yarn/*
 !.yarn/cache

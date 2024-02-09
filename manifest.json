@@ -1,0 +1,26 @@
+{
+  "index.css": {
+    "file": "assets/index-c7c4021a.css",
+    "src": "index.css"
+  },
+  "index.html": {
+    "assets": [
+      "assets/Item.backgrnd3-76d12ccb.png",
+      "assets/Item.backgrnd2-876c7ec2.png"
+    ],
+    "css": [
+      "assets/index-c7c4021a.css"
+    ],
+    "file": "assets/index-21d73077.js",
+    "isEntry": true,
+    "src": "index.html"
+  },
+  "src/image/UI/inventory/Item.backgrnd2.png": {
+    "file": "assets/Item.backgrnd2-876c7ec2.png",
+    "src": "src/image/UI/inventory/Item.backgrnd2.png"
+  },
+  "src/image/UI/inventory/Item.backgrnd3.png": {
+    "file": "assets/Item.backgrnd3-76d12ccb.png",
+    "src": "src/image/UI/inventory/Item.backgrnd3.png"
+  }
+}
